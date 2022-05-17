@@ -1,1 +1,3 @@
-# Hybrid-Deep-Learning-Based-Intrusion-Detection-for-DDoS-Attack
+# Hybrid DL Based IDS for DDoS Attack
+
+The paper is in process to be submitted. Code and experiments will be made avialble soon.
